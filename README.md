@@ -1,7 +1,7 @@
 # Low Cost Self Activating Touchless Hand Sanitizer Dispensing with Battery Imposed System
 Source codes &amp; other project resources are stored in this repository.
 
-![TinkerCAD Image](https://github.com/pranavkhatale/Low-Cost-Self-Activating-Touchless-Hand-Sanitizer-Dispensing-with-Battery-Imposed-System/blob/main/Circuit%20Diagram/Circuit%20Diagram.png)
+![TinkerCAD Image](https://github.com/amit172/automatic-hand-sanitizer-dispensing/blob/main/Circuit%20Diagram/Circuit%20Diagram.png)
 
 Coronavirus disease is a major problem in the future world. Presently there is no medicine or vaccine made available in India for the general public. As there is a severe attack in this world, people are suffering from corona disease. The COVID-19 disease is not a simple virus attack, it makes it severe to the human by infecting the respiratory system. The virus disease is heavily spreading in the world, as the nations are trying to monitor and maintain the spread of corona in the nation and other nations. The world is suffering a lot due to this coronavirus.
 
